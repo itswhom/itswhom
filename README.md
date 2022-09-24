@@ -7,9 +7,9 @@ Validation Engineer & Software Developer
 I am a validation engineer with a BS in Mechanical Engineering. I love bringing coding solutions to all my projects, and hope to become proficient in full stack and Python.
 
 *   🌍  I'm based in Portland, Oregon
-*   🖥️  See my portfolio at [whom.dev](http://www.whom.dev)
+*   🖥️  See my portfolio at [whom.dev](http://www.whom.dev) (linked to GitHub for now)
 *   ✉️  You can contact me at [joseph@whom.dev](mailto:joseph@whom.dev)
-*   🚀  I'm currently working on [ZeroToMastery bootcamps](http://zerotomastery.io)
+*   🚀  I'm currently working on taking [ZeroToMastery](http://zerotomastery.io) bootcamps
 *   🧠  I'm learning Python and JavaScript
 *   🤝  I'm open to collaborating on small projects or games!
 
