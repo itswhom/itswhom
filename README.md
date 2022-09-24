@@ -13,7 +13,7 @@ I am a validation engineer with a BS in Mechanical Engineering. I love bringing 
 *   🧠  I'm learning Python and JavaScript
 *   🤝  I'm open to collaborating on small projects or games!
 
-<a href="https://www.twitter.com/itswhom_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/itswhom_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/itswhom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itswhom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/itswhom_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/itswhom_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/itswhom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itswhom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 
