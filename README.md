@@ -1,10 +1,10 @@
 Hi! 👋 My name is Joseph Whom
 ==============================
 
-Validation Engineer & Software Developer
+UX Researcher & Designer
 ----------------------------------------
 
-I am a validation engineer with a BS in Mechanical Engineering. I love bringing coding solutions to all my projects, and hope to become proficient in full stack and Python.
+I am a UX Designer with a BS in Mechanical Engineering and a lifetime of artistic endeavors. I love bringing creative solutions to any problem I face, and often incorporate code to do odd jobs or time-saving tasks.
 
 *   🌍  I'm based in Portland, Oregon
 *   🖥️  See my portfolio at [whom.dev](http://www.whom.dev) (linked to GitHub for now)
