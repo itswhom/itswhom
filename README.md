@@ -12,7 +12,7 @@ I am a UX Designer with a BS in Mechanical Engineering and a lifetime of artisti
 *   🧠  I'm currently learning Product Design and Figma
 *   🤝  I'm open to collaborating on small projects!
 
-<a href="https://www.twitter.com/itswhom_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/itswhom_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> <a href="https://www.github.com/itswhom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itswhom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/itswhom" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/itswhom?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills 
 
