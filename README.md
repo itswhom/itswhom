@@ -1,16 +1,10 @@
 Hi! 👋 My name is Joseph Whom
 ==============================
 
-UX Researcher & Designer
+UX Designer
 ----------------------------------------
 
-I am a UX Designer with a BS in Mechanical Engineering and a lifetime of artistic endeavors. I love bringing creative solutions to any problem I face, and often incorporate code to do odd jobs or time-saving tasks.
-
-*   🌍  I'm based in Portland, Oregon
-*   🖥️  See my portfolio at [whom.dev](http://www.whom.dev) (linked to GitHub for now)
-*   ✉️  You can contact me at [joseph@whom.dev](mailto:joseph@whom.dev)
-*   🧠  I'm currently learning Product Design and Figma
-*   🤝  I'm open to collaborating on small projects!
+I am a UX Designer with a BS in Mechanical Engineering and a lifetime of artistic hobbies. I love bringing creative solutions to any problem I face, and often incorporate code to do odd jobs or time-saving tasks.
 
 ### Skills 
 
